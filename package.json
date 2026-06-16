@@ -16,11 +16,7 @@
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
     "tailwindcss": "^4.3.1",
-<<<<<<< HEAD
     "gh-pages": "^latest-version"
-=======
-    
->>>>>>> 18e26882e781848901d0f77c5f3a55686bcc9f51
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
